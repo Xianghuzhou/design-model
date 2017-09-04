@@ -11,6 +11,8 @@
     <modules>
         <module>simpleFactory</module>
         <module>methodFactory</module>
+        <module>abstractFactory</module>
+        <module>singleton</module>
     </modules>
 
 
